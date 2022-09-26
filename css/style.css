@@ -1,0 +1,24 @@
+header{
+  background-image: url(../../html-css-booleaner/img/pattern.png);                  
+}
+
+#evidenziato{
+  background-color: yellow;
+}
+
+.first{
+  background-color: rgba(0, 174, 255, 0.596);
+}
+
+.second, .fourth{
+  background-color: rgb(95, 228, 252, 0.7);
+}
+
+.third{
+  background-color: white;
+}
+
+.row-left, .row-mid, .row-right{
+    display: inline-block;
+    width: 20%;
+  }
